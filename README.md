@@ -9,7 +9,7 @@ It was developed to log the measurements of a number of sensors onto a microSD c
 - SI1145 light/UV sensor (outside)
 - RCB-09T-01 GPS module (other GPS modules should work fine as well)
 - SPI microSD card module
-- custom-made PCB with modular design and two extra outputs (I²C) for additional sensors
+- custom-made PCB (made in KiCad v8) with modular design and two extra outputs (I²C) for additional sensors
 - one of which was used for an MPU6050 accelerometer/gyroscope (inside)
 # Software
 - made in Arduino IDE
